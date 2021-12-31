@@ -1,4 +1,4 @@
-# *Sergey Otroshchenko*
+# Sergey Otroshchenko
 # ____________________________________________________________________________
 
 ## Contacts:

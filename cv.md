@@ -20,3 +20,6 @@ Until now, he worked in construction. However, for a long time I have been inter
 
 ## Experience:
 30 years in construction.
+
+## Education:
+Secondary technical

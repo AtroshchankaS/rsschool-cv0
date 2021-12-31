@@ -16,8 +16,8 @@ Until now, he worked in construction. However, for a long time I have been inter
     color: #9400D3;
   }
 </style>
- <span class="violet">Решение задачи №8</span> ```
-
+ <span class="violet">Решение задачи №8</span>
+```
 ## Experience:
 30 years in construction.
 

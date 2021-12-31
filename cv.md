@@ -1,12 +1,12 @@
 # Sergey Otroshchenko
-# ____________________________________________________________________________
+# _______________________________________________________________________
 
 ## Contacts:
     - Github: AtrschankaS;
     - Email: osn.28.11@gmail.com
     - Tel.: +375293498408
 
-# About myself:
+## About myself:
 
 Until now, he worked in construction. However, for a long time I have been interested in electronics and programming. Therefore, this year I decided to study JS Front-end.
 

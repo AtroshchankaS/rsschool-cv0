@@ -11,7 +11,8 @@
 Until now, he worked in construction. However, for a long time I have been interested in electronics and programming. Therefore, this year I decided to study JS Front-end.
 
 ## Sample code:
-``` <style>
+``` 
+<style>
   .violet {
     color: #9400D3;
   }

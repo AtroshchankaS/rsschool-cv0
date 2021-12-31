@@ -1,4 +1,6 @@
 # Sergey Otroshchenko
+
+! [/F/Piktery/1640963849497.jpg"] !
 # _______________________________________________________________________
 
 ## Contacts:
@@ -24,3 +26,7 @@ Until now, he worked in construction. However, for a long time I have been inter
 
 ## Education:
 Secondary technical
+
+## Languages:
+English - A1.
+At the same time I am taking courses in English.

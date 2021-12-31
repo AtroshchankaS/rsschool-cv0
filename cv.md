@@ -4,7 +4,8 @@
 # _______________________________________________________________________
 
 ## Contacts:
-    - Github: AtrschankaS;
+    - Github: AtroschankaS;
+    - Discord: Сергей Отрощенко#7966
     - Email: osn.28.11@gmail.com
     - Tel.: +375293498408
 
